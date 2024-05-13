@@ -1,0 +1,6 @@
+com/csk/springmongo/model/User.class
+com/csk/springmongo/resource/UserResource.class
+com/csk/springmongo/MyApp.class
+com/csk/springmongo/repository/UserRepository.class
+com/csk/springmongo/config/WebConfig.class
+com/csk/springmongo/controller/UserController.class
